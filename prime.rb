@@ -3,5 +3,6 @@ def prime_method(integer)
     if num.prime 
       true
   }
+end 
   false
-  end
+end
