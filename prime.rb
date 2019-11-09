@@ -1,1 +1,3 @@
-# Add  code here!
+def prime_method(integer)
+  integer.prime?
+end
