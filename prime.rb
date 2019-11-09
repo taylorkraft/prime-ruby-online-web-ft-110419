@@ -1,3 +1,3 @@
 def prime_method(integer)
-  integer.prime?
-end
+  integer.map {|num| num.prime?}
+  end
