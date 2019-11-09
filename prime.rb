@@ -1,4 +1,4 @@
-def prime_method(integer)
+def prime?(integer)
   integer.map {|num|
     if num == prime 
       true
