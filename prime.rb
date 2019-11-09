@@ -1,5 +1,5 @@
 def prime_method(integer)
-  integer.map {|num| num.prime?
+  integer.map {|num|
     if num == prime 
       true
     end
