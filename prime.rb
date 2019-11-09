@@ -1,3 +1,4 @@
 def prime?(num)
   if !num.integer?
-    false
+    return false
+    if 
